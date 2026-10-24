@@ -51,7 +51,7 @@ Aboneliği iPhone'un Ayarlar uygulamasından, Apple hesabınızın Abonelikler b
 
 ## Tarama sorunu bildirmek
 
-Bir ekran yanlış okunduysa, kontrol ekranındaki "Okunanı paylaş" seçeneğiyle okunan metni paylaşabilirsiniz. Metin, iOS paylaşım menüsünde sizin seçtiğiniz kişiye ya da uygulamaya gider. Siz paylaşmadıkça hiçbir yere gönderilmez. Paylaşmadan önce metinde paylaşmak istemediğiniz bir bilgi olup olmadığına bakın.
+Bir ekran görüntüsü yanlış okunduysa, kontrol ekranındaki "Okunanı paylaş" seçeneğiyle okunan metni paylaşabilirsiniz. Metin, iOS paylaşım menüsünde sizin seçtiğiniz kişiye ya da uygulamaya gider. Siz paylaşmadıkça hiçbir yere gönderilmez. Paylaşmadan önce metinde paylaşmak istemediğiniz bir bilgi olup olmadığına bakın.
 
 ## Verilerinizi silmek
 

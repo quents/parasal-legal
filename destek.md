@@ -2,9 +2,9 @@
 
 Soru, öneri ve hata bildirimleri için: [support@yaziciyusuf.com](mailto:support@yaziciyusuf.com)
 
-## Bir ekran yanlış okunduysa
+## Ekran görüntüsündeki bir bilgi yanlış okunduysa
 
-Kontrol ekranında, yanlış okunan ekranın menüsünden "Okunanı paylaş"ı seçin ve okunan metni e-postayla gönderin. Hangi bankanın uygulaması olduğunu ve hangi satırın yanlış olduğunu da yazın. Göndermeden önce metinde paylaşmak istemediğiniz bir bilgi olup olmadığına bakın.
+Parasal, eklediğiniz ekran görüntüsündeki yazıları telefonunuzda okur; bankanıza bağlanmaz. Bir tutar, tarih ya da taksit yanlış çıktıysa kontrol ekranında o görüntünün menüsünden "Okunanı paylaş"ı seçip metni e-postayla gönderin ve hangi satırın yanlış olduğunu yazın. Göndermeden önce metinde paylaşmak istemediğiniz bir bilgi olup olmadığına bakın.
 
 ## Satın alma
 
