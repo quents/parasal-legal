@@ -36,6 +36,7 @@ Bu veriler Apple'ın sunucularında, [Apple'ın gizlilik politikasına](https://
 Parasal internete yalnızca şu durumlarda bağlanır:
 
 - **Döviz kurları ve kredi kartı faiz oranları:** Türkiye Cumhuriyet Merkez Bankası'nın herkese açık kaynaklarından alınır. Bu isteklerde sizinle ilgili bir bilgi gönderilmez.
+- **Mevduat faizi, kredi faizi ve enflasyon:** Merkez Bankası'nın verileri, Parasal'ın oran sunucusu üzerinden alınır. Bu isteklerde sizinle ilgili bir bilgi gönderilmez; sunucu istek kaydı tutmaz.
 - **iCloud eşitlemesi ve aile paylaşımı:** Apple'ın sunucularıyla yapılır.
 - **Deneme ve satın alma:** App Store'la yapılır.
 
